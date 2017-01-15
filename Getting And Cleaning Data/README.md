@@ -1,9 +1,11 @@
 # Getting And Cleaning Data - Week 4 assignment
-
 This is an assignment for the Getting and Cleaning Data course.
 
-The R script, `run_analysis.R`, has following steps:
+### Code explaination
+the code combines two datasets namely train and test data. then the required variables are extracted and created anoted dataset having average of each variable in each activity
 
+### The Algorithm
+The R script, `run_analysis.R`, has following steps:
 1. Download the dataset if it does not already exist in the working directory
 
 2. Load the activity and feature info
