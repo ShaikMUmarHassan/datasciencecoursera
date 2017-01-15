@@ -1,7 +1,8 @@
 # Getting And Cleaning Data - Week 4 assignment
 
-This is the course project for the Getting and Cleaning Data Coursera course.
-The R script, `run_analysis.R`, does the following:
+This is an assignment for the Getting and Cleaning Data course.
+
+The R script, `run_analysis.R`, has following steps:
 
 1. Download the dataset if it does not already exist in the working directory
 
