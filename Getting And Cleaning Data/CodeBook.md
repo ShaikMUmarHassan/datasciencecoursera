@@ -1,9 +1,9 @@
-# Description of Tidy Dataset
+# Tidy Dataset Description
 
 ### The variables in the tidy data
 Tidy data contains 180 rows and 68 columns. Each row has averaged variables for each subject and each activity.
 
-### Only the variables concerning to mean and standard deviation in the tidy set were retained.
+### Only the variables concerning to mean and standard deviation in the tidy dataset were retained.
 
 ### The data were averaged based on subject and type of activity .
 
